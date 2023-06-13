@@ -1,0 +1,11 @@
+header {
+    background-color:chocolate;
+    color: black;
+    display: flex;
+}
+.cabecalho-imagem {
+width: 40%;
+display: inline-block;
+
+
+}
